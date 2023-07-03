@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <item>
+        <title>Test Items HTML</title>
+        <type>Developer Seed</type>
+        <pubDate>Mon, 03 Jul 2023 22:36:21 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                <s>S tag</s><br>
+                <strong>Strong tag</strong><br>
+                <sub>Sub tag</sub><br>
+                <sup>Sup tag</sup><br>
+                <blockquote>blockquote tag</blockquote><br>
+                <dl>
+                    <dt>Coffee</dt>
+                    <dd>Black hot drink</dd>
+                    <dt>Milk</dt>
+                    <dd>White cold drink</dd>
+                </dl>
+                <h1>h1 tag</h1>
+                <h2>h2 tag</h2>
+                <h3>h3 tag</h3>
+                <h4>h4 tag</h4>
+                <h5>h5 tag</h5>
+                <h6>h6 tag</h6>
+                <u>u tag</u><br>
+                <hr>
+                <ol>
+                    <li>LI in OL element</li>
+                    <li>LI in OL element</li>
+                </ol>
+                <p>p tag</p>
+                <pre>pre tag</pre>
+                <ul>
+                    <li>LI in UL element</li>
+                    <li>LI in UL element</li>
+                </ul>
+                <a href="google.com">a tag</a>
+                <br>
+                <b>b tag</b><br>
+                <cite>cite tag</cite><br>
+                <code>code tag</code><br>
+                <em>em tag</em><br>
+                <i>i tag</i><br>
+                <mark>mark tag</mark><br>
+                <q>q tag</q><br>
+            ]]>
+        </content:encoded>
+    </item>
+    <item>
+        <title>News item 2</title>
+        <type>Developer Seed</type>
+        <pubDate>Tue, 27 Jun 2023 19:15:12 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                <h1>HTML content would be stored here! (Part two)</h1>
+            ]]>
+        </content:encoded>
+    </item>
+    <item>
+        <title>News item 1</title>
+        <type>Developer Seed</type>
+        <pubDate>Tue, 27 Jun 2023 19:15:12 +0000</pubDate>
+
+        <content:encoded>
+            <![CDATA[
+                <h1>HTML content would be stored here! (Part one)</h1>
+            ]]>
+        </content:encoded>
+    </item>
+  </channel>
+</rss>
